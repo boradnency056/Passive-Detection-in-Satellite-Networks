@@ -1,0 +1,7 @@
+Observations
+
+Satellites 500 Objects 700 got struck
+Satellites 100 Objects 200 time 71sec - 4 algo
+Satellites 100 Objects 500 time 286 sec - 4 algo
+Satellites 100 Objects 500 time 198 sec - Edmond corp with and without priorities
+
